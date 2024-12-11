@@ -1,2 +1,7 @@
 Michael scores a 95, 87, 85, 93, and a 94 on his first 5 math tests. If he wants a 90 average, what must he score on the final math test?
-Options: 90,84,86,96, 88
+Options: 90,84,86,96, 88.
+
+Pseudo code:
+1. Sum up his 5 scores on the math test he has taken
+2. Divide the sum by the total or not.
+3. let x be his new_unknown_score, then we find the average / 6( where 6 is the len of this score)
