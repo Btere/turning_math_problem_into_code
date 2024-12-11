@@ -1,0 +1,13 @@
+Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
+
+Pseudo code
+unique_character(the_string):
+    Initialize an empty dictionary tracker
+
+    for each character char in the_string:
+        if char exists as a key in tracker:
+            increment the value of tracker[char] by 1
+        else:
+            add char as a key in tracker with value 1
+
+    return tracker
