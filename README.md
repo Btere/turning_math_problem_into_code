@@ -20,3 +20,4 @@ Having a "structured approach" to problem-solving can reduce overwhelm and incre
 4. Debug Incrementally: As you write the code, test it in parts. This “divide and conquer” approach helps isolate issues and keeps the task manageable.
 Reflect and Improve: After solving the problem, take a moment to analyze what went well and what didn’t. This will help reinforce learning and prepare you for similar problems.
 
+Note: When dealing with list, it can be a sorted list or unsorted list. Take note of it, when working with a list/array
